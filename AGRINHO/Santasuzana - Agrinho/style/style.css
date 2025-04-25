@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+*
+main{
+
+    text-align: center;
+    font-size: 50px;
+    
+
+    background-image: linear-gradient(to right, white,blue,red);
+}
